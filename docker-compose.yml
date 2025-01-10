@@ -1,6 +1,6 @@
 ﻿version: '3.8'
 services:
-  taskManagementApp:
+  task_management_app:
     build: .
     ports:
       - "3000:3000"
