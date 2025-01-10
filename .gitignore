@@ -5,6 +5,8 @@ bin-release/
 [Bb]in/
 node_modules
 .idea
+dist
+
 
 # Other files and folders
 .settings/
